@@ -1,0 +1,41 @@
+ID,Name,Age,Gender,Location,School_Grade,Daily_Usage_Hours,Sleep_Hours,Academic_Performance,Social_Interactions,Exercise_Hours,Anxiety_Level,Depression_Level,Self_Esteem,Parental_Control,Screen_Time_Before_Bed,Phone_Checks_Per_Day,Apps_Used_Daily,Time_on_Social_Media,Time_on_Gaming,Time_on_Education,Phone_Usage_Purpose,Family_Communication,Weekend_Usage_Hours,Addiction_Level,Addiction_Category,Screen_to_Sleep_Ratio,Weekend_Weekday_Usage_Diff,Productive_Usage_Ratio,Mental_Health_Score,School_Grade_Num
+1,Shannon Francis,13,Female,Hansonfort,9th,4.0,6.1,78,5,0.1,10,3,8,0,1.4,86,19,3.6,1.7,1.2,Browsing,4,8.7,10.0,Tinggi,0.66,4.7,0.3,6.5,9
+2,Scott Rodriguez,17,Female,Theodorefort,7th,5.5,6.5,70,5,0.0,3,7,3,0,0.9,96,9,1.1,4.0,1.8,Browsing,2,5.3,10.0,Tinggi,0.85,-0.2,0.33,5.0,7
+3,Adrian Knox,13,Other,Lindseystad,11th,5.8,5.5,93,8,0.8,2,3,10,0,0.5,137,8,0.3,1.5,0.4,Education,6,5.7,9.2,Tinggi,1.05,-0.1,0.07,2.5,11
+4,Brittany Hamilton,18,Female,West Anthony,12th,3.1,3.9,78,8,1.6,9,10,3,0,1.4,128,7,3.1,1.6,0.8,Social Media,8,3.0,9.8,Tinggi,0.79,-0.1,0.26,9.5,12
+5,Steven Smith,14,Other,Port Lindsaystad,9th,2.5,6.7,56,4,1.1,1,5,1,0,1.0,96,20,2.6,0.9,1.1,Gaming,10,3.7,8.6,Sedang,0.37,1.2,0.44,3.0,9
+6,Mary Adams,13,Female,East Angelachester,10th,3.9,6.3,89,3,0.7,7,1,3,0,1.1,135,8,3.8,0.0,1.4,Social Media,7,6.0,8.8,Sedang,0.62,2.1,0.36,4.0,10
+7,Hailey Moses,16,Male,North Jeffrey,11th,6.3,6.7,89,3,0.9,6,7,9,0,0.8,129,9,1.8,2.7,1.0,Education,7,7.8,10.0,Tinggi,0.94,1.5,0.16,6.5,11
+8,Veronica Marshall,13,Other,Jenniferport,10th,5.1,6.1,70,2,2.2,5,6,8,0,1.0,34,7,2.3,1.6,0.5,Browsing,9,8.0,8.0,Sedang,0.84,2.9,0.1,5.5,10
+9,Edward Avila,13,Male,Leebury,8th,3.0,9.1,79,0,1.8,1,7,6,0,0.9,70,13,2.7,2.2,1.3,Education,10,9.1,7.3,Sedang,0.33,6.1,0.43,4.0,8
+10,James Carter,18,Other,Prestonview,11th,3.9,5.8,89,8,1.1,9,1,9,0,0.9,121,13,2.7,0.4,1.0,Other,9,2.9,9.1,Tinggi,0.67,-1.0,0.26,5.0,11
+11,Bobby Sparks,18,Female,Cherylburgh,12th,4.9,7.0,74,5,0.6,4,3,2,0,0.6,84,20,3.1,0.6,0.8,Other,6,3.5,10.0,Tinggi,0.7,-1.4,0.16,3.5,12
+12,Ruben Walters,14,Male,Lake Mary,11th,1.6,5.9,70,10,1.5,10,8,8,0,0.9,147,18,1.9,2.7,1.0,Browsing,7,3.2,9.8,Tinggi,0.27,1.6,0.62,9.0,11
+13,Sarah Nguyen,19,Female,South Heatherton,10th,7.4,5.8,70,4,0.6,4,9,3,0,1.1,59,19,4.3,0.4,0.4,Gaming,8,9.1,10.0,Tinggi,1.28,1.7,0.05,6.5,10
+14,Melanie Phillips,17,Female,Port Angelaburgh,9th,8.7,5.5,95,6,1.9,2,8,2,1,0.7,76,8,4.2,1.3,1.5,Education,5,4.6,10.0,Tinggi,1.58,-4.1,0.17,5.0,9
+15,Edwin Lambert,15,Other,New Emilyberg,12th,6.4,8.5,79,3,0.0,2,8,9,1,0.5,50,14,5.0,1.2,0.0,Social Media,5,5.6,10.0,Tinggi,0.75,-0.8,0.0,5.0,12
+16,Gregory Hughes,19,Other,Port Charles,11th,4.4,6.6,97,6,1.6,8,10,4,1,1.2,134,17,2.2,1.5,1.8,Education,4,6.8,10.0,Tinggi,0.67,2.4,0.41,9.0,11
+17,Matthew Webb,15,Female,Lake Chase,8th,5.4,7.8,87,4,2.3,6,6,9,0,0.9,36,20,2.6,1.3,1.1,Gaming,9,1.4,10.0,Tinggi,0.69,-4.0,0.2,6.0,8
+18,John Cooper,15,Other,Paulstad,10th,3.0,6.1,80,5,1.4,1,4,2,1,1.2,95,16,3.0,1.9,0.2,Other,7,7.5,10.0,Tinggi,0.49,4.5,0.07,2.5,10
+19,Amy Greene,19,Female,Port Nicholasberg,9th,7.9,8.5,96,6,0.1,5,2,4,1,1.0,58,9,2.2,1.9,1.3,Education,5,3.5,10.0,Tinggi,0.93,-4.4,0.16,3.5,9
+20,Kathryn Perez,18,Male,South Thomas,12th,5.4,5.9,69,4,1.3,2,7,8,0,0.6,83,19,1.6,1.0,0.4,Browsing,7,6.1,10.0,Tinggi,0.92,0.7,0.07,4.5,12
+21,Michael Williams,15,Female,Margaretmouth,12th,3.0,5.1,83,4,1.1,1,9,4,1,1.5,58,6,1.7,1.7,2.0,Social Media,8,6.7,6.2,Rendah,0.59,3.7,0.67,5.0,12
+22,Patricia Johnson,16,Female,North Scott,12th,2.7,6.3,92,3,1.4,2,9,3,1,1.7,112,17,2.1,2.6,0.9,Gaming,10,5.7,9.9,Tinggi,0.43,3.0,0.33,5.5,12
+23,Jennifer Davis,14,Other,Port Angelabury,11th,2.7,5.1,60,9,0.0,4,6,2,0,1.7,117,16,2.5,1.3,0.2,Education,5,4.8,9.5,Tinggi,0.53,2.1,0.07,5.0,11
+24,Desiree Brady,19,Male,East Amanda,9th,6.9,3.6,79,5,1.0,5,5,10,1,0.8,32,7,2.0,1.3,1.2,Education,7,6.6,10.0,Tinggi,1.92,-0.3,0.17,5.0,9
+25,Mark Crawford,19,Other,Port Alan,12th,4.6,7.2,85,7,1.3,7,6,4,0,1.1,71,5,1.8,0.8,1.1,Social Media,8,6.2,6.0,Rendah,0.64,1.6,0.24,6.5,12
+26,Samantha Sanchez,16,Male,Port Bianca,11th,5.5,5.9,78,5,1.2,1,7,3,0,0.7,44,14,0.9,1.3,1.3,Gaming,3,3.9,8.4,Sedang,0.93,-1.6,0.24,4.0,11
+27,Kelly Giles,19,Male,West Kimberlyfurt,11th,6.2,4.5,65,3,1.3,5,7,1,0,1.1,115,10,2.1,1.6,1.0,Social Media,7,6.6,10.0,Tinggi,1.38,0.4,0.16,6.0,11
+28,Jeffrey Crawford,19,Male,Shawburgh,8th,4.9,9.3,50,4,0.0,7,4,1,0,0.3,117,5,3.5,4.0,0.9,Education,3,7.0,10.0,Tinggi,0.53,2.1,0.18,5.5,8
+29,Tammy Gallegos,17,Female,West Cynthia,10th,6.6,8.1,77,7,1.0,6,1,3,1,1.5,147,14,2.0,1.7,1.6,Education,8,9.2,10.0,Tinggi,0.81,2.6,0.24,3.5,10
+30,Jared Bridges,19,Other,Jessicaberg,11th,8.6,5.2,63,0,1.1,6,4,8,0,1.3,72,15,0.2,1.8,0.7,Browsing,9,6.6,10.0,Tinggi,1.65,-2.0,0.08,5.0,11
+31,Bailey Flores,15,Other,Lake Martha,12th,4.1,4.5,59,8,0.8,10,1,8,0,0.6,32,10,2.2,1.0,0.5,Education,9,9.3,7.7,Sedang,0.91,5.2,0.12,5.5,12
+32,Jennifer Hudson,19,Male,Vickifurt,10th,4.2,6.9,86,8,1.7,5,1,9,1,1.0,100,15,2.6,2.2,0.9,Browsing,4,6.9,10.0,Tinggi,0.61,2.7,0.21,3.0,10
+33,Kathleen Friedman,19,Male,Port Ryan,10th,8.0,5.5,87,7,2.2,1,8,5,0,1.0,26,16,3.3,1.3,2.6,Gaming,6,5.2,10.0,Tinggi,1.45,-2.8,0.32,4.5,10
+34,Cynthia Fisher,16,Male,Lake Jamiebury,9th,3.3,5.3,50,4,0.0,7,1,6,0,0.3,141,14,0.7,3.2,0.0,Gaming,5,5.1,10.0,Tinggi,0.62,1.8,0.0,4.0,9
+35,Amy Carroll,16,Male,South Williamfort,12th,4.7,6.6,59,6,1.5,10,4,7,1,0.6,123,18,1.0,1.1,1.2,Social Media,2,0.3,9.6,Tinggi,0.71,-4.4,0.26,7.0,12
+36,Monica Roberts,15,Male,West Kristinaview,8th,3.9,6.3,64,9,1.3,6,7,8,1,0.9,135,11,1.2,1.5,1.5,Social Media,7,2.2,8.4,Sedang,0.62,-1.7,0.38,6.5,8
+37,Laura Steele,13,Female,Burketown,8th,4.4,6.8,62,8,1.4,2,1,10,0,1.7,66,7,0.9,0.0,0.0,Browsing,1,6.9,4.6,Rendah,0.65,2.5,0.0,1.5,8
+38,Lauren Matthews,13,Male,Christineton,9th,8.3,6.2,65,9,1.3,5,6,8,1,1.3,144,5,2.3,0.0,1.5,Other,1,2.9,10.0,Tinggi,1.34,-5.4,0.18,5.5,9
+39,Marcus Stephens,16,Other,Schmitthaven,9th,7.4,6.9,67,0,1.7,6,6,8,0,1.6,117,16,1.6,0.7,0.7,Social Media,8,4.6,10.0,Tinggi,1.07,-2.8,0.09,6.0,9
+40,Cameron Hansen,16,Female,North Christina,12th,1.7,6.8,68,9,0.8,5,9,1,1,0.7,107,18,2.4,0.6,0.0,Education,6,6.2,7.0,Sedang,0.25,4.5,0.0,7.0,12
